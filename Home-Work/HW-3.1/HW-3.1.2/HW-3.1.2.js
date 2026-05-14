@@ -1,10 +1,10 @@
 //— Створити пустий масив.
 // Наповнити його будь-якими значеннями, звертаючись до конкретного індексу. Вивести в консоль
 
-let user = [];
-user[0] = 'Katya';
-user[1] = 'Valeria';
-user[2] = 'Daryna';
-user[3] = 'Saba';
-console.log(user);
+let arr = [];
+arr[0] = 'Katya';
+arr[1] = '2017';
+arr[2] = 0;
+arr[3] = true;
+console.log(arr);
 
