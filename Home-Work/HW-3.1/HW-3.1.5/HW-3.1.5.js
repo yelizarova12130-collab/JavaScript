@@ -6,6 +6,12 @@ let strings = ['Anna', 'Oleg', 'Maria', 'Ivan', 'Sofia', 'Petya', 'Oksana', 'Dmi
 //     console.log(string);
 // }
 
-for (let i = 0; i < 10; i++) {
+// for (let i = 0; i < 10; i++) {
+//     console.log(strings[i]);
+// }
+
+let i = 0;
+while (i < strings.length) {
     console.log(strings[i]);
+    i++;
 }
