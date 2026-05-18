@@ -6,8 +6,12 @@ let numbers = [12, -3, 0, 3.14, 5, 5.15, 10, 10000, 1234567890, 9];
 //     console.log(numbers[i]);
 // }
 
+// for (number of numbers) {
+//     console.log(number);
+// }
 
-
-for (number of numbers) {
-    console.log(number);
+let i = 0;
+while (i < numbers.length) {
+    console.log(numbers[i]);
+    i++;
 }
