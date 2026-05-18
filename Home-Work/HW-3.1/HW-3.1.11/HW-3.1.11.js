@@ -23,7 +23,7 @@
 
 //        d. Заповнити масив 20-ма рандомними числами в діапазоні від 8 до 732 (Google: Generate random number JS)
 // let numbers = [];
-// let newArr = [];
+// let newArr = []; //використовувала тільки для завдання 4.
 // for (let i = 0; i <20; i++) {
 //     numbers.push(Math.floor(Math.random() * (732 - 8 + 1)) + 8);
 // }
