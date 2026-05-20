@@ -2,6 +2,7 @@
 // Текст li задати через аргумент всім однаковий.
 // Кількість li визначається другим аргументом, який є числовим (тут використовувати цикл)
 
+
 const list = (text, count) => {
     let result = '';
 
@@ -12,4 +13,4 @@ const list = (text, count) => {
     console.log(`<ul>${result}</ul>`);
 };
 
-list('hello',3);
+list('hello', 3);
